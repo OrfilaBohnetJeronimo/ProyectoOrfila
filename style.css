@@ -6,3 +6,7 @@ img {
     width: 250px;
     height: 250px;
 }
+
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
